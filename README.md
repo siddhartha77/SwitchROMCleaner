@@ -4,3 +4,5 @@ Recursively delete old versions of ROMs in the current directory. This is all ba
 ```
 GameName [TitleID][Version].xxx
 ```
+
+Based on code from [nicoboss/nsz](https://github.com/nicoboss/nsz).
